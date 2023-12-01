@@ -1,0 +1,360 @@
+/*ESTE CSS PERTENECE A TODOS LOS HTML DE DETALLE*/
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color:#0a91ab;
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+    padding: 4rem;
+    color: #ffc045;
+
+}
+nav{
+    margin-top: -1rem;
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;;
+}
+ul{
+    background-color: #ffc045;
+    display: flex;
+    justify-content: center;
+    list-style: none;   
+    border-radius: 5px;
+    border-bottom: 2px solid black;
+}
+li{
+    padding: 2%;
+}
+nav.Top a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+nav.Top a:hover{
+    color:#0a91ab;
+}
+
+/*seccion 1*/
+section.primeraSeccion{
+    background-image: url('./assets_styles/wallpaperMinecraft.jpeg');
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 45rem;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+
+}
+section.primeraSeccion h2{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-left: 10rem ;
+    margin-top:-12rem;
+}
+section.primeraSeccion p{
+    color: white;
+    font-weight: 200;
+    margin-left: 10rem;
+    width: 400px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+section.primeraSeccion a{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(103, 97, 97, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+section.primeraSeccion a:hover{
+    background-color: rgba(62, 182, 200, 0.5);
+}
+
+/*Segunda sección*/
+section.segundaSección{
+    background: linear-gradient(to bottom, #0a91ab 30%, #ffffff);
+    background-size: 100%;
+    height: 45rem;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+}
+section.segundaSección h2{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-top:-12rem;
+
+}
+section.segundaSección p{
+    color: white;
+    width: 510px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+section.segundaSección a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0000004a;
+    border-radius: 100px;
+    padding: 15px;
+    color: #ffffff;
+}   
+section.segundaSección a:hover{
+    background-color: #0a91ab;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+} 
+
+
+/*FOOTER*/
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-style: italic;
+    font-size: 15px;
+}
+footer nav{
+    display: flex;
+    align-items: center;
+    margin-top: 1px;
+}
+footer nav a{
+    text-decoration: none;
+    margin-right: 10px;   
+    color: darkblue; 
+    font-weight: bold;
+}
+
+
+/*LOL 1r seccion*/
+section.primeraSeccionLOL{
+    background-image: url('./assets_styles/lol.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 45rem;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+}
+section.primeraSeccionLOL h2{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-left: 10rem ;
+    margin-top:-12rem;
+}
+section.primeraSeccionLOL p{
+    color: white;
+    font-weight: 200;
+    margin-left: 10rem;
+    width: 400px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+section.primeraSeccionLOL a{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(103, 97, 97, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+section.primeraSeccionLOL a:hover{
+    background-color: rgba(62, 182, 200, 0.5);
+}
+
+
+/*Primera seccion valorant*/
+section.primeraSeccionValorant{
+    background-image: url('./assets_styles/valorant.jpeg');
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 45rem;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+}
+section.primeraSeccionValorant h2{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-left: 10rem ;
+    margin-top:-12rem;
+}
+section.primeraSeccionValorant p{
+    color: white;
+    font-weight: 200;
+    margin-left: 10rem;
+    width: 400px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+section.primeraSeccionValorant a{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(103, 97, 97, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+section.primeraSeccionValorant a:hover{
+    background-color: rgba(62, 182, 200, 0.5);
+}
+
+
+/*Primera seccion b03*/
+section.primeraSeccionBO3{
+    background-image: url('./assets_styles/bo3.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 45rem;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+}
+section.primeraSeccionBO3 h2{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-left: 10rem ;
+    margin-top:-12rem;
+}
+section.primeraSeccionBO3 p{
+    color: white;
+    font-weight: 200;
+    margin-left: 10rem;
+    width: 400px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+section.primeraSeccionBO3 a{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(103, 97, 97, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+section.primeraSeccionBO3 a:hover{
+    background-color: rgba(62, 182, 200, 0.5);
+}
+
+
+/* Primera seccion FC24*/
+section.primeraSeccionFC24{
+    background-image: url('./assets_styles/fc24.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 45rem;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+}
+section.primeraSeccionFC24 h2{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-left: 10rem ;
+    margin-top:-12rem;
+}
+section.primeraSeccionFC24 p{
+    color: white;
+    font-weight: 200;
+    margin-left: 10rem;
+    width: 400px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+section.primeraSeccionFC24 a{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(103, 97, 97, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+section.primeraSeccionFC24 a:hover{
+    background-color: rgba(62, 182, 200, 0.5);
+}
+
+
+/*Primera seccion FNAF*/
+/* Primera seccion FC24*/
+section.primeraSeccionFNAF{
+    background-image: url('./assets_styles/fnaf.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 45rem;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+}
+section.primeraSeccionFNAF h2{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-left: 10rem ;
+    margin-top:-12rem;
+}
+section.primeraSeccionFNAF p{
+    color: white;
+    font-weight: 200;
+    margin-left: 10rem;
+    width: 400px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+section.primeraSeccionFNAF a{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(103, 97, 97, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+section.primeraSeccionFNAF a:hover{
+    background-color: rgba(62, 182, 200, 0.5);
+}

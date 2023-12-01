@@ -1,0 +1,260 @@
+/*ESTE CSS PERTENECE A INDEX.HTML I VIDEOJUEGOS.HTML*/
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color:#0a91ab;
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+    padding: 4rem;
+    color: #ffc045;
+
+}
+nav{
+    margin-top: -1rem;
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;;
+    position: sticky;
+    top: 0;
+}
+ul{
+    background-color: #ffc045;
+    display: flex;
+    justify-content: center;
+    list-style: none;   
+    border-radius: 5px;
+    border-bottom: 2px solid black;
+}
+li{
+    padding: 2%;
+}
+nav.Top a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+nav.Top a:hover{
+    color:#0a91ab;
+}
+
+/*Seccion 1*/
+h2 {
+    color: #0a91ab;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 3%; 
+}
+.videojuegos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.videojuegos article {
+    width: 25%;
+    margin: 15px;
+    background-color: #ffffff;
+    border: 2px solid #ffc045;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.videojuegos article img {
+    width: 100%;
+    height: 200px;
+}
+.videojuegos article h3 {
+    text-align: left;
+    font-size: 20px;
+    margin: 5px;
+    color: #f5c564;
+}
+.videojuegos article p {
+    font-size: 15px;
+    text-align: justify;
+    padding: 5px;
+}
+.videojuegos article a { 
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffc045;
+    padding: 2px;
+    margin: 3px;
+    border-radius: 5px;
+    text-align: right;
+}
+.videojuegos article a:hover{ 
+    color:#0a91ab;
+}
+
+/*NOTICIAS y ASIDE*/
+div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.noticias{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80% ;
+    margin-left: -5%;
+}
+.noticias article {
+    width: 35%;
+    margin: 15px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+}
+.noticias h3{
+    text-align: left;
+    font-size: 20px;
+    color: #f5c564;
+
+}
+.noticias article a {
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffc145cd;
+    padding: 2px;
+    margin-top: -2rem;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+    text-align: right;
+    font-weight: bold;
+}
+.noticias article a:hover {
+    color: #0a91ab;
+    background-color: #ffc145;
+}
+aside {
+    background-color:lightblue;
+    border-radius: 20px;
+}
+aside a{
+    display:flex;
+    justify-content: left;
+    padding: 1.5rem;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #13158f;
+}
+aside a:hover{
+    color:#ffc045;
+}
+
+
+/*RANKING*/
+.ranking {
+    background-color: #8A8070;
+    display: flex;
+    justify-content: space-around;
+    text-align: center; 
+    border-top: 5px solid #000000;
+    border-radius: 5px;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.ranking img{
+    width:100px;
+    height: 100px;
+}
+.ranking p{
+    margin: 10px ;
+}
+.RTittle{
+    font-weight: bold;
+}
+
+
+/*FOOTER*/
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-style: italic;
+    font-size: 15px;
+}
+footer nav{
+    display: flex;
+    align-items: center;
+    margin-top: 1px;
+}
+footer nav a{
+    text-decoration: none;
+    margin-right: 10px;   
+    color: darkblue; 
+    font-weight: bold;
+}
+
+
+/*.videojuegos2*/
+.videojuegos2 article {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    background-color: #ffc045;
+    border-radius: 100px;
+    border-right: 10px solid #0a91ab;
+    display: flex;
+}
+
+.videojuegos2 article:hover {
+    background-color: #ffc145da;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+
+}
+
+.divv2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 4rem;
+}
+.divv2 h3{
+    color: #0a91ab;
+    font-size: 30px;
+    margin-bottom: -1px;
+    padding-bottom: 10px;
+}
+.videojuegos2 article>img{ 
+    width: 25rem;
+    border-radius: 100px; /*comprobar diferentes radius*/
+}
+
+.listv2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: left;
+}
+.listv2 :hover{
+    width: 32px;
+    height: 32px;
+    padding: 0px;
+}
+
+.listv2 img{
+    width: 30px;
+    height: 30px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.masInfo{
+    text-decoration: none;
+    margin-top: 20px;
+    color: black;
+    font-weight: bold;
+}

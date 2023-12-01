@@ -1,0 +1,225 @@
+/*
+azul: #30c7d5;
+naranja: #dd9e6b;
+marron: #cf928b;
+gris: #4e4e4e;
+
+//Fuente de toda la página
+font-family: "Lato", sans-serif;
+font-size: 16px;
+
+//Para titulos
+font-family: "Playfair Display", serif;
+
+//Texto fino
+font-weight: 200;
+*/
+
+/*EL FICHERO NO ES VALIDO CON MOZILLA FIREFOX
+USA CHROME O EDGE!!*/
+
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;}
+
+*{
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+}
+
+/*HEADER*/
+header {
+    position: relative; 
+}
+header img {
+    position: absolute;
+    left: 13rem; 
+    top: 0; 
+    width: 130px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    background-color: #30c7d5;
+    padding: 1rem;
+}
+nav ul li {
+    margin: 2rem; 
+    font-weight: bold;
+}
+nav ul li a{
+    text-decoration: none;
+    color:white;
+    background-color: ;
+}
+nav ul li a:hover{
+    text-decoration: none;
+    color:white;
+    background-color: #dd9e6b;
+    padding: 10px;
+}
+/*CABEZERA FOTO*/
+header section{
+    background-image: url('./imagenes/desierto.jpeg');
+    background-size: cover;
+    background-attachment: fixed; 
+    min-height: 50rem;
+    margin-top: -27px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+}
+header section h2{
+    color: white;
+    font-weight: bold;
+    font-family: "Playfair Display", serif;
+    font-size: 2rem;
+    margin-left: 10rem ;
+    margin-top:-12rem;
+}
+header section p{
+    color: white;
+    font-weight: 200;
+    margin-left: 10rem;
+    width: 410px;
+}
+header section a{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(103, 97, 97, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+header section a:hover{
+    text-decoration: none;
+    width: 410px;
+    color: white;
+    margin-left: 10rem ;
+    background-color: rgba(62, 182, 200, 0.5);
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+}
+
+/*SECCION 1*/
+main .sectionOne {
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+main .sectionOne article {
+    width: 27%;
+    margin-top: 10px; 
+    margin-left: 5rem;
+    margin-right: 5rem;
+    border: 2px solid #4e4e4e;
+    display: flex;
+    flex-direction: column;
+}
+
+main .sectionOne article h3 {
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    color: #4e4e4e;
+}
+main .sectionOne article p {
+    font-weight: 200;
+    text-align: center;
+    padding: 5px;
+}
+main .sectionOne a { 
+    text-decoration: none;
+    color: #000000;
+    padding: 2px;
+    margin: 3px;
+    text-align: center;
+    border-bottom: 2px solid #30c7d5;
+}
+main .sectionOne a:hover { 
+    font-size: 13px;
+    text-decoration: none;
+    color: #000000;
+    padding: px;
+    margin: 3px;
+    text-align: center;
+    border-bottom: 2px solid #ffffff;   
+    background-color: rgba(100, 234, 255, 0.5);
+       
+}
+
+
+/*SECCION 2*/
+.lineTop{
+    border-top: 3px solid #4e4e4e;
+    border-bottom: 3px solid #4e4e4e;
+    margin-top: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+}
+.dondevamos{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    color:#30c7d5;
+}
+main .sectionTwo {
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+main .sectionTwo article {
+    width: 15%;
+    height: 30%;
+    margin-top: 10px; 
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+main .sectionTwo a { 
+    text-decoration: none;
+    color: white;
+    padding: 4px;
+    text-align: center;
+    background-color:black;
+    margin-bottom: 40px;
+}
+main .sectionTwo a:hover{ 
+    text-decoration: none;
+    color: white;
+    padding: 4px;
+    text-align: center;
+    background-color: #30c7d5;
+    margin-bottom: 40px;
+}
+
+/*footer*/
+
+footer {
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+}
+footer address{
+    font-size: 10px;
+}
+footer p{
+    font-size: 10px;
+}
+
+
+
+
+
+
