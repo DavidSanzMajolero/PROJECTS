@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\Proyecto Videojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\Proyecto Videojuego.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\Proyecto Videojuego.AssemblyInfo.cs
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\Proyecto Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\bin\Debug\net7.0\Proyecto Videojuego.exe
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\bin\Debug\net7.0\Proyecto Videojuego.deps.json
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\bin\Debug\net7.0\Proyecto Videojuego.runtimeconfig.json
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\bin\Debug\net7.0\Proyecto Videojuego.dll
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\bin\Debug\net7.0\Proyecto Videojuego.pdb
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\Proyecto Videojuego.dll
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\refint\Proyecto Videojuego.dll
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\Proyecto Videojuego.pdb
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\Proyecto Videojuego.genruntimeconfig.cache
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Videojuego\Proyecto Videojuego\obj\Debug\net7.0\ref\Proyecto Videojuego.dll

@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\bin\Debug\net7.0\Proyecto Ahorcado.exe
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\bin\Debug\net7.0\Proyecto Ahorcado.deps.json
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\bin\Debug\net7.0\Proyecto Ahorcado.runtimeconfig.json
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\bin\Debug\net7.0\Proyecto Ahorcado.dll
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\bin\Debug\net7.0\Proyecto Ahorcado.pdb
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\Proyecto Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\Proyecto Ahorcado.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\Proyecto Ahorcado.AssemblyInfo.cs
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\Proyecto Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\Proyecto Ahorcado.dll
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\refint\Proyecto Ahorcado.dll
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\Proyecto Ahorcado.pdb
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\Proyecto Ahorcado.genruntimeconfig.cache
+C:\Users\David\Desktop\CARPETAS\FP ITB\PROGRAMACION\Proyecto Ahorcado\Proyecto Ahorcado\obj\Debug\net7.0\ref\Proyecto Ahorcado.dll

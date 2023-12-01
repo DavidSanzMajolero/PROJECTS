@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Proyecto Videojuego/1.0.0": {
+        "runtime": {
+          "Proyecto Videojuego.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto Videojuego/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
